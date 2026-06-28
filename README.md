@@ -158,7 +158,7 @@ http://localhost:5000
 
 ### Dashboard
 
-https://1drv.ms/i/c/5757CDB58A65BB62/IQA1ofAt8HGgT6E9jvJsUqvbAbcMewjgyqzlrUBxbFTr-O4?e=q5BGhW
+
 
 ### Login Page
 
