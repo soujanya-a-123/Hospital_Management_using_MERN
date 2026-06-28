@@ -156,12 +156,12 @@ http://localhost:5000
 
 ## 📸 Screenshots
 
-### Dashboard
+### login page
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e34f98b6-a3f0-4c32-b3c8-2ad992b1118c" />
 
 
-### Login Page
+### Dashboard
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4ee8e932-15a7-4edb-b8c4-244688322524" />
 
