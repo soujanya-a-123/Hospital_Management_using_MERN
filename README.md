@@ -64,7 +64,6 @@ A full-stack **Hospital Management System** built using the **MERN Stack (MongoD
 * JavaScript
 * HTML5
 * CSS3
-* Axios
 
 ### Backend
 
@@ -124,7 +123,7 @@ cd Hospital_Management_using_MERN
 ```bash
 cd backend
 npm install
-npm start
+node server.js
 ```
 
 ### Frontend Setup
@@ -162,14 +161,6 @@ http://localhost:5000
 (Add Screenshot Here)
 
 ### Login Page
-
-(Add Screenshot Here)
-
-### Patient Management
-
-(Add Screenshot Here)
-
-### Doctor Management
 
 (Add Screenshot Here)
 
